@@ -1,0 +1,20 @@
+C:\Users\esra\Desktop\165403002_Esra_Uyanir\165403002_Esra_Uyanir\bin\Debug\165403002_Esra_Uyanir.exe.config
+C:\Users\esra\Desktop\165403002_Esra_Uyanir\165403002_Esra_Uyanir\bin\Debug\165403002_Esra_Uyanir.exe
+C:\Users\esra\Desktop\165403002_Esra_Uyanir\165403002_Esra_Uyanir\bin\Debug\165403002_Esra_Uyanir.pdb
+C:\Users\esra\Desktop\165403002_Esra_Uyanir\165403002_Esra_Uyanir\obj\Debug\165403002_Esra_Uyanir.csprojAssemblyReference.cache
+C:\Users\esra\Desktop\165403002_Esra_Uyanir\165403002_Esra_Uyanir\obj\Debug\_165403002_Esra_Uyanir.Form1.resources
+C:\Users\esra\Desktop\165403002_Esra_Uyanir\165403002_Esra_Uyanir\obj\Debug\_165403002_Esra_Uyanir.Properties.Resources.resources
+C:\Users\esra\Desktop\165403002_Esra_Uyanir\165403002_Esra_Uyanir\obj\Debug\165403002_Esra_Uyanir.csproj.GenerateResource.cache
+C:\Users\esra\Desktop\165403002_Esra_Uyanir\165403002_Esra_Uyanir\obj\Debug\165403002_Esra_Uyanir.csproj.CoreCompileInputs.cache
+C:\Users\esra\Desktop\165403002_Esra_Uyanir\165403002_Esra_Uyanir\obj\Debug\165403002_Esra_Uyanir.exe
+C:\Users\esra\Desktop\165403002_Esra_Uyanir\165403002_Esra_Uyanir\obj\Debug\165403002_Esra_Uyanir.pdb
+E:\MASAUSTU\Esra Uyanır\165403002_Esra_Uyanir\165403002_Esra_Uyanir\bin\Debug\165403002_Esra_Uyanir.exe.config
+E:\MASAUSTU\Esra Uyanır\165403002_Esra_Uyanir\165403002_Esra_Uyanir\bin\Debug\165403002_Esra_Uyanir.exe
+E:\MASAUSTU\Esra Uyanır\165403002_Esra_Uyanir\165403002_Esra_Uyanir\bin\Debug\165403002_Esra_Uyanir.pdb
+E:\MASAUSTU\Esra Uyanır\165403002_Esra_Uyanir\165403002_Esra_Uyanir\obj\Debug\165403002_Esra_Uyanir.csprojAssemblyReference.cache
+E:\MASAUSTU\Esra Uyanır\165403002_Esra_Uyanir\165403002_Esra_Uyanir\obj\Debug\_165403002_Esra_Uyanir.Form1.resources
+E:\MASAUSTU\Esra Uyanır\165403002_Esra_Uyanir\165403002_Esra_Uyanir\obj\Debug\_165403002_Esra_Uyanir.Properties.Resources.resources
+E:\MASAUSTU\Esra Uyanır\165403002_Esra_Uyanir\165403002_Esra_Uyanir\obj\Debug\165403002_Esra_Uyanir.csproj.GenerateResource.cache
+E:\MASAUSTU\Esra Uyanır\165403002_Esra_Uyanir\165403002_Esra_Uyanir\obj\Debug\165403002_Esra_Uyanir.csproj.CoreCompileInputs.cache
+E:\MASAUSTU\Esra Uyanır\165403002_Esra_Uyanir\165403002_Esra_Uyanir\obj\Debug\165403002_Esra_Uyanir.exe
+E:\MASAUSTU\Esra Uyanır\165403002_Esra_Uyanir\165403002_Esra_Uyanir\obj\Debug\165403002_Esra_Uyanir.pdb
